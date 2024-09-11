@@ -39,6 +39,10 @@ h1{
     color: #e6e6e6;
 }
 
+.stars i:hover {
+    color: #000;
+}
+
 .stars i.active {
     color: #000;
 }
